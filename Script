@@ -1,0 +1,22 @@
+{
+     "origin": ["#intro# #veg1#, #veg2#, #extra#, #cheese#, #meat# #sauce# #on#. #emoji#"],
+
+     "intro": ["How about a sub with","You'd love a sub with","Try a sub with","You need a sub with","Smash a sub with"],
+
+     "veg1": ["lettuce","red onions","tomatoes","cucumbers","green peppers","avocado","sweetcorn","carrot"],
+
+     "veg2": ["lettuce","red onions","tomatoes","cucumbers","green peppers","avocado","sweetcorn","carrot"],
+
+     "extra": ["olives","pickles","jalapenos"],
+
+     "cheese":["shredded cheese","provolone cheese","swiss cheese","cheddar cheese","mozzarella"],
+
+     "meat": ["bacon","double bacon","meatballs","turkey","roast chicken","steak","roast beef","tuna","with no meat for a change","pepperoni and salami"],
+
+     "sauce":["and a dash of barbecue sauce","and creamy Italian dressing","and honey mustard sauce","and red wine vinaigrette","and caesar dressing","and sweet onion sauce"],
+
+     "on": ["on flatbread","on Italian bread","on Italian herbs & cheese","as a salad","on multigrain","on honey oat bread","on white bread"],
+
+     "emoji":["👌","😉","👻","💥","✊","😊","🙃","✅","💯","😏"]
+}
+
