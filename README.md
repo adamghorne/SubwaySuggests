@@ -7,7 +7,7 @@ A proactive concept for [McCann Paris][1].
 
 Built using [Cheap Bots Done Quick][2] and deployed [@SubSuggest][3].
 
-
+All scripts are in Tracery JSON format.
 
 
 
